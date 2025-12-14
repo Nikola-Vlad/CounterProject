@@ -30,15 +30,15 @@
 body {
   
     margin: 0;
-    height: 100vh; /* make body full viewport height */
-    width: 100vw;  /* full viewport width */
+    height: 100vh;
+    width: 100vw;  
     
-    background-image: url("background.jpg");
-    background-size: cover;       /* make it cover the whole area */
-    background-position: center;  /* center the image */
-    background-repeat: no-repeat; /* don’t repeat */
+    background-image: url("backgrind.jpg");
+    background-size: cover;       
+    background-position: center;  
+    background-repeat: no-repeat; 
     
-    display: flex;        /* use flex to center content */
+    display: flex;       
     justify-content: center;
     align-items: center;
 
@@ -49,5 +49,6 @@ body {
 
 
 }
+
 
 
