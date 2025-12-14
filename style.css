@@ -28,25 +28,26 @@
 }
 
 body {
+  
     margin: 0;
-    height: 70vh;
+    height: 100vh; /* make body full viewport height */
+    width: 100vw;  /* full viewport width */
     
-
-
-    background-image: url("backgrind.jpg");
-    background-size: 150em;
-    background-position: center;
-    background-repeat: no-repeat;
+    background-image: url("background.jpg");
+    background-size: cover;       /* make it cover the whole area */
+    background-position: center;  /* center the image */
+    background-repeat: no-repeat; /* don’t repeat */
     
-
-    display:flex;
+    display: flex;        /* use flex to center content */
     justify-content: center;
     align-items: center;
-    color:
-    
-    font-family:'Times New Roman', Times, serif;
+
+    color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+
 
 
 
 }
+
 
