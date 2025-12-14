@@ -29,7 +29,7 @@
 
 body {
     margin: 0;
-    height: 70vh;
+    height: 90vh;
     
     background-image: url("backgrind.jpg");
     background-size: 150em;
@@ -42,6 +42,7 @@ body {
     color:aquamarine;
     font-family:'Times New Roman', Times, serif;
 }
+
 
 
 
