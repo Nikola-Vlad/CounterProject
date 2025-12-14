@@ -34,7 +34,7 @@ body {
     width: 100%;
     
     background-image: url("bestpicture.jpg");
-    background-size: 150em;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     
@@ -44,6 +44,7 @@ body {
     color:aquamarine;
     font-family:'Times New Roman', Times, serif;
 }
+
 
 
 
