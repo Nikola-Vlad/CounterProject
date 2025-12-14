@@ -1,0 +1,51 @@
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 20em;
+    font-family:fantasy;
+    color:black;
+    
+
+}
+
+#btnContainer{
+    text-align:center;
+    
+
+}
+.buttons{
+    padding: 20px 30px;
+    font-size: 1.8em;
+    color:black;
+    background-color:blueviolet;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.buttons:hover{
+    background-color:chartreuse;
+    font-size:x-large;
+}
+
+body {
+    margin: 0;
+    height: 70vh;
+    
+
+
+    background-image: url("backgrind.jpg");
+    background-size: 150em;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+
+    display:flexbox;
+    justify-content: center;
+    align-items: center;
+    color:
+    
+    font-family:'Times New Roman', Times, serif;
+
+
+
+}
