@@ -38,12 +38,13 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     
-    display:flexbox;
+    display:flex;
     justify-content: center;
     align-items: center;
     color:aquamarine;
     font-family:'Times New Roman', Times, serif;
 }
+
 
 
 
